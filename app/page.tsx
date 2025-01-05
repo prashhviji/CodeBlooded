@@ -10,10 +10,6 @@ import Approach from "@/components/Approach";
 import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import { StickyScroll } from "@/components/ui/sticky-scroll-reveal";
-import { StickyScrollRevealDemo } from "@/components/StickyScrollRevealDemo";
-import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
-import { AnimatedTestimonialsDemo } from "@/components/AnimatedTestimonialsDemo";
 
 
 const Home = () => {
@@ -26,7 +22,7 @@ const Home = () => {
         <RecentProjects />
         <Clients />
         <Experience />
-        <AnimatedTestimonialsDemo />
+        
         <Approach />
 
         <Footer />

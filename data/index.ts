@@ -66,34 +66,34 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title:
-      "Data Collection & Integration Traditional & Alternative Data Sources",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Data Collection & Integration ",
+    des: "Traditional & Alternative Data Sources",
     img: "/p1.svg",
-    
+
     link: "/ui.earth.com",
   },
   {
     id: 2,
     title: "Predictive Model for Credit Risk",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "Machine Learning for Credit Score Prediction",
     img: "/p2.svg",
-    
+
     link: "/ui.yoom.com",
   },
   {
     id: 3,
     title: "Explainability & Personalized Recommendations",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    des: "Gen AI for Transparency & User Understanding",
     img: "/p3.svg",
-    
+
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
     title: "Real-Time Interactions & Query Handling",
+    des:"Instant Feedback & User Engagement",
     img: "/p4.svg",
-    
+
     link: "/ui.apple.com",
   },
 ];
@@ -136,29 +136,29 @@ export const testimonials = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Focus on Core Service & Value",
+    desc: "We provide real-time credit risk assessments, empowering lenders and expanding financial access.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Focus on Innovation & Technology",
+    desc: "We leverage AI and alternative data for cutting-edge credit risk analysis, driving innovation in lending.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Focus on Client-Centric Approach",
+    desc: "We prioritize client success with transparent, explainable credit risk insights for responsible lending.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Focus on Data-Driven Efficiency",
+    desc: "Our data-driven model provides comprehensive, real-time assessments for more efficient lending.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
